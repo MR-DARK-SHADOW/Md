@@ -15,7 +15,7 @@
     "author": "DGXeon",
     "license": "MIT",
     "dependencies": {
-        "@whiskeysockets/baileys": "git+https://github.com/WhiskeySockets/Baileys.git",
+        "@whiskeysockets/baileys": "^6.7.2",
         "@adiwajshing/keyed-db": "^0.2.4",
         "@ffmpeg-installer/ffmpeg": "^1.1.0",
         "@hapi/boom": "^10.0.1",
