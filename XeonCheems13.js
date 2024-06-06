@@ -9155,7 +9155,9 @@ break;
             replygcxeon(`Total Features of ${botname} is ${xeonfeature()}`)
         break
                     case 'menu':
-            case 'help': {
+            case 'help': 
+			react '🖕':
+			{
             let ownernya = ownernumber + '@s.whatsapp.net'
             let timestampe = speed()
             let latensie = speed() - timestampe
